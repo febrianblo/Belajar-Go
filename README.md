@@ -1,0 +1,2 @@
+# Belajar-Go
+golang nih
